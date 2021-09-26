@@ -6,14 +6,7 @@
   --user-popout-position: center;
 }
 
-/*Evgenakv*/
-
-[data-user-id="530395057786847252"] {
-  --user-background: url('https://i.imgur.com/Zdojm22.gif');
-}
-
-/*MbosL*/
-
+[user_by_bdfdb="729934422068953098"],
 [data-user-id="442708340015890443"] {
-  --user-background: url('https://i.imgur.com/qQBk2cR.jpg');
+	--user-background: url('https://i.imgur.com/Zdojm22.gif');
 }

@@ -1,5 +1,4 @@
-{
-  "530395057786847252": {
-    "background": "https://cdn.discordapp.com/attachments/855662536992751636/870074067212963861/4988-flame.gif"
-  }
-}
+.root-SR8cQa [data-user-id="530395057786847252"],
+.userPopout-3XzG_A [data-user-id="530395057786847252"] {
+  --user-background: url('https://i.imgur.com/qQBk2cR.jpg');
+  --user-popout-position: left/right/center !important;
